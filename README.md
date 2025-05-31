@@ -1,5 +1,14 @@
-# 💫 About Me:
-We build custom software projects for students, researchers, and professionals across emerging tech domains.**
+[![XEN-O1 Banner](https://github.com/XEN-O1/XEN-O1/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)](https://xen-o1.com )
+
+<h1 align="center">🚀 XEN-O1 - Empowering Students with Real-World Projects</h1>
+<h3 align="center">We mentor students in AI, Machine Learning, Software Development, and Research-Based Learning to build job-ready skills.</h3>
+
+---
+
+### 📌 **About Us**
+At **XEN-O1**, we specialize in guiding students through **hands-on, project-based learning**. Our mission is to bridge the gap between academia and industry by delivering **custom-built, plagiarism-free projects** across emerging technologies. Whether you need a final-year project, research paper, or resume optimization, we’ve got you covered!
+
+---
 
 
 ## 🌐 Socials:
