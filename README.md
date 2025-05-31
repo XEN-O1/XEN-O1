@@ -12,7 +12,6 @@ We build custom software projects for students, researchers, and professionals a
 ![](https://nirzak-streak-stats.vercel.app/?user=XEN-O1&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XEN-O1&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
