@@ -1,4 +1,4 @@
-[![XEN-O1 Banner](https://raw.githubusercontent.com/RoshanReddy22/RoshanReddy22/main/XEN-O1%20Banner.png )](https://xen-o1.com)
+[![XEN-O1 Banner](https://github.com/XEN-O1/XEN-O1/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)](https://xen-o1.com)
 
 <h1 align="center">🚀 XEN-O1 - Empowering Students with Real-World Projects</h1>
 <h3 align="center">We mentor students in AI, Machine Learning, Software Development, and Research-Based Learning to build job-ready skills.</h3>
